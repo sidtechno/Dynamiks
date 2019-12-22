@@ -1,3 +1,5 @@
+ALL IMAGES ARE ON ONEDRIVE
+
 ### Wordpress
 
 Username: admindynamiks
